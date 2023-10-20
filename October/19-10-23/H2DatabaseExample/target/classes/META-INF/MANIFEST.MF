@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: H2DatabaseExample
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: narend
+Implementation-Vendor-Id: com.h2database
+Build-Jdk: 1.8.0_381
+Implementation-URL: https://spring.io/projects/spring-boot/H2DatabaseE
+ xample
+Created-By: Maven Integration for Eclipse
+
